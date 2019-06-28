@@ -45,6 +45,9 @@ export default class Layout extends React.Component<Props> {
             <li>
               <Link to={`/about`}>About</Link>
             </li>
+            <li>
+              <Link to={`/privacy and terms of service`}>Privacy & Terms of Service</Link>
+            </li>
           </ul>
         </StyledNav>
         <main className="content" role="main">
