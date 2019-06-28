@@ -13,8 +13,6 @@ Hello, this is an exciting post with three main points:
 2. You can refer to images
 3. You can include syntax highlighted code
 
-![Furby](../assets/furby.png)
-
 ```js
 console.log(`Hello world, 1 + 1 = ${1 + 1}`);
 ```
