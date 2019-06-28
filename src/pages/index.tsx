@@ -19,6 +19,9 @@ export default class Index extends React.Component<Props> {
         <Head title="All posts" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
         <article>
           <div className={`page-content`}>
+          <h2>WokeShopper</h2>
+          <p>Helping consumers navigate ethical purchases.</p>
+          <h3>Trending evils:</h3>
             {posts.map(({node}) => {
               const title = node.frontmatter.title || node.fields.slug
               return (
