@@ -21,7 +21,7 @@ export default class Index extends React.Component<Props> {
           <div className={`page-content`}>
           <h2>WokeShopper</h2>
           <p>Helping consumers make ethical choices.</p>
-          <h3>Trending evils:</h3>
+          <h3>Trending companies to avoid:</h3>
             {posts.map(({node}) => {
               const title = node.frontmatter.title || node.fields.slug
               return (
