@@ -16,7 +16,7 @@ export default class Tags extends React.Component<Props> {
     return (
       <Layout title={siteTitle}>
         <Head title="Privacy Policy and Terms of Service" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-        <article>"ethical consumerism"...</article>
+        <article>"We are not liable for anything!"...</article>
       </Layout>
     )
   }
