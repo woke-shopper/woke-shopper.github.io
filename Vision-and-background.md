@@ -1,5 +1,3 @@
-# WokeShopper
-
 _Helping consumers make ethical purchases._
 
 ### Table of contents
@@ -26,7 +24,6 @@ For a long time, companies have been able to get away with their poor conduct st
 
 - [When do consumer boycotts work](http://www.nytimes.com/roomfordebate/2017/02/07/when-do-consumer-boycotts-work)
 - [Uber CEO bows out of Trump's advisory board due to public demand](https://twitter.com/lsarsour/status/827319789534208000)
-- [Stores drop Ivanka Trump brand]
 - [Nordstrom drops Ivanka Trump brand](https://www.nytimes.com/2017/02/02/business/nordstrom-ivanka-trump.html?ref=politics)
 - [How to eat food from countries banned by Trump](http://www.laweekly.com/restaurants/heres-where-to-eat-food-from-the-7-countries-banned-by-trump-7882760)
 
@@ -47,7 +44,7 @@ What we've outlined above is audacious goal with a non-trivial data dependency. 
 ## Values
 
 Our values define the rubric we use to determine whether a company is "woke" or "broke". We group companies into three categories:
-- [Human rights and social justice](#human-rights-and-social justice)
+- [Human rights and social justice](#human-rights-and-social-justice)
 - [Animal cruelty-free](#animal-cruelty-free)
 - [Environmental protection](#environmental-protection)
 
@@ -67,12 +64,12 @@ Climate change, renewable energy, toxic waste dumping, recycling, eco-innovation
 
 - [Better World Shopper](http://betterworldshopper.org/) is a site designed to nudge people to purchase goods from responsible companies, and avoid the irresponsible ones. It ranks companies across five categories: Human Rights, The Environment, Animal Protection, Community Involvement and Social Justice.
  - While this site has incredible content curation, there were a few gaps I noticed:
-  1) This information should be in front of people at the appropriate time, when they're clicking "Add to cart".
-  2) This is not an open project, and an actively maintained open-source project may provide fresher data.
-  3) Navigating this site is not super usable.
+    1) **Not timely:** This information should be in front of people at the appropriate time, when they're clicking "Add to cart".
+    2) **Dated sources:** This is not an open project, and an actively maintained open-source project may provide fresher data.
+    3) **Usability:** Navigating this site is not as easy and integrated with purchase flow; information is buried. Related to point #1.
 - Actionable data about companies is difficult to come by. The most promising source appeared to be [CSRHub](https://csrhub.com), which normalizes reporting of Corporate Social Responsibility. After some investigation it became clear that this data wouldn't give consumers real actionable insight.
- - Example 1: [United Airlines receives a rating of 64/100](https://www.csrhub.com/CSR_and_sustainability_information/UAL-Corporation/). Even if we scrape and display that to customers it would show a 3 star rating, not necessarily indicative of how bad United Airlines appear to be (following the violence towards a passenger recently).
- - Example 2: [PETA](https://www.peta.org/) provides too broad of a listing of companies. While admirable, boycotting any company that does animal testing seems overly ambitious and impractical. We'd prefer a more focused boycott list.
+   - Example 1: [United Airlines receives a rating of 64/100](https://www.csrhub.com/CSR_and_sustainability_information/UAL-Corporation/). Even if we scrape and display that to customers it would show a 3 star rating, not necessarily indicative of how bad United Airlines appear to be (following the violence towards a passenger recently).
+   - Example 2: [PETA](https://www.peta.org/) provides too broad of a listing of companies. While admirable, boycotting any company that does animal testing seems overly ambitious and impractical. We'd prefer a more focused boycott list.
 - The academic literature on CSR primarily uses this KLD database. That measure is apparently not credible, according to [this 10-year-old paper](http://faculty.haas.berkeley.edu/levine/papers/ChatterjiLevineToffel_060707%20WP.pdf).
 - The lack of consistency has to do with subjective ideologies and insufficient evidence. Even in the space of non-profits, where the measures directly impact revenue and incentives are better aligned, it’s a mess. Charity Navigator (and donors) overweight indicators like overhead and underweight actual evidence of impact. Some new entrants into the space (e.g. GiveWell) do a thorough and consistent job, but by adopting a super narrow and exhaustive approach that only appeals to a niche market of donors (and one that overly penalizes that which is more difficult to quantify).
 
@@ -103,11 +100,10 @@ Climate change, renewable energy, toxic waste dumping, recycling, eco-innovation
 
 #### Chrome extension open Qs
 
-What permissions do we want to ask for?
-Can we trigger popover when there is useful information to display?
-Alert on extension icon is probably too subtle (but don't want to disrupt browsing experience)
-Where can we link people to?
-Amazon search with good companies name and product name?
+- What permissions do we want to ask for?
+- Can we trigger popover when there is useful information to display?
+- Alert on extension icon is probably too subtle (but don't want to disrupt browsing experience)
+- Where can we link people to? Amazon search with good companies name and product name?
 
 ## About the founder
 
