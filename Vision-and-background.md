@@ -105,6 +105,6 @@ Climate change, renewable energy, toxic waste dumping, recycling, eco-innovation
 - Alert on extension icon is probably too subtle (but don't want to disrupt browsing experience)
 - Where can we link people to? Amazon search with good companies name and product name?
 
-## About the founder
+## Founding story
 
-This project was started and built by Ayman Nadeem (@aymannadeem). Ayman had this idea for years, and started investigating the potential for it to become a Chrome plug-in in 2017. After making minimal progress on it for a long time, she was inspired to take action when she learned that [Wayfair](https://www.thenation.com/article/wayfair-workers-walk-out/), a company she had purchased furniture from had been making a profit by selling beds to concentration camps at the center of the border migrant crisis.
+This project was started and built by me, Ayman Nadeem (@aymannadeem). I had this idea for years, and started investigating the potential for it to become a Chrome extension in 2017. After making minimal-to-zero progress on it for a long time, I was reinvigorated to take action after learning about [Wayfair](https://www.thenation.com/article/wayfair-workers-walk-out/)'s profiting from selling beds to concentration camps at the center of the border migrant crisis.
